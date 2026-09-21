@@ -1,7 +1,7 @@
 # fake-news-maker
-カテゴリ別にランダム生成されるニュースアプリ風Webサイトです。
+カテゴリ別にランダム生成されるニュースアプリ風Webサイトです。<br>
 ボタンを押すことでニュースが生成されます。<br>
-リンク(https://ruyu-283.github.io/fake-news-maker/ )
+リンク→(https://ruyu-283.github.io/fake-news-maker/ )
 
 <img width="959" height="497" alt="image" src="https://github.com/user-attachments/assets/d7a0abfb-0ec1-488a-9fe3-f36b259e2b25" />
 
@@ -16,7 +16,7 @@
 
 # 制作の目的
 未経験から学ぶ題材としてHTMLとCSSを選択し、学習した内容の成果物として作成しました。
-作成にあたって、Youtubeの動画で基礎的な知識を学んだ後、GitHub Copilotを用いてコード生成を行いサイトを完成させました。
+作成にあたって、Youtubeの動画で基礎的な知識を学んだ後、GitHub Copilotを用いてコード生成を行いサイトを完成させました。<br>
 学習に用いた動画のリンクはこちらです。(https://www.youtube.com/watch?v=LXUlkEBLayU&t=8397s)
 
 # 今後の拡張予定
