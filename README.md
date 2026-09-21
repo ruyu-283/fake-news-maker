@@ -16,7 +16,7 @@
 ・制作の目的
 未経験から学ぶ題材としてHTMLとCSSを選択し、学習したの内容の成果物として作成しました。
 作成にあたって、Youtubeの動画で基礎的な知識を学んだ後、GitHub Copilotを用いてコード生成を行いサイトを完成させました。
-学習に用いた動画　(https://www.youtube.com/watch?v=LXUlkEBLayU&t=8397s)
+学習に用いた動画のリンクはこちらです。(https://www.youtube.com/watch?v=LXUlkEBLayU&t=8397s)
 
 ・今後の拡張予定
 - カテゴリ別の画像表示
